@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Ladder
   - Trap
+  - Bullet
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -42,4 +44,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Effects
+    uniqueID: 1488755123
     locked: 0
